@@ -12,7 +12,7 @@ alert('Hello'); alert('World');
 <p>Line breaks are interpreseted as an implicit semicolon, this is not always true though.<br>
 The following are both examples of semicolon / implicit semicolon usage.</p>
 
-<p>False,</p>
+**<p>False,</p>**
 
 ```
 alert(3 +
@@ -20,7 +20,7 @@ alert(3 +
 + 2);
 ```
 
-<p>True,</p>
+**<p>True,</p>**
 
 ```
 alert('Hello')
